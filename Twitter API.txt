@@ -1,0 +1,10 @@
+API Key: sFlA1eO7mnRIKTGDhGRrrFrYY
+API Key Secret: 1WNBIv03DJjfpahn0HQf2fB07Avdyj35cGLCED0JxEQnVBlYYZ
+Bearer Token: AAAAAAAAAAAAAAAAAAAAAOvacAEAAAAACunqlK94o5QRsgfzFZ7wl2O%2Bu1I%3D41CT8XPHcxoQGpqufKP6AcvEGBEm33SBjaeGP9e5Si8fZ6SeA1
+Access Token: 130442459-Ow5idqym0l2adooXNJ09cIn42TEqwsZsCNflthGO
+Access Token Secret: y8OUvLJ5bQyIqSj99TfTOXYN8fFXxDCioaNNDUuxDSBii
+
+
+API key is the Consumer key.
+API Secret key is the Consumer secret.
+Bearer token is the Access token.
